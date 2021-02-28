@@ -6,8 +6,6 @@ from discord.ext import commands
 DESCRIPTION = """
 """
 
-WELCOME_TEXT = """
-"""
 
 class Bot(commands.Bot):
     def __init__(self):
