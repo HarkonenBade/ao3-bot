@@ -1,3 +1,4 @@
+wheel
 discord.py
 -e git+https://github.com/HarkonenBade/ao3.git@tos-screen#egg=ao3
 html2text
